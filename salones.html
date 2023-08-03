@@ -427,21 +427,33 @@
         </div>
       </div>
       <div class="form-block w-form">
-        <form id="email-form" name="email-form" data-name="Email Form" method="post" action="https://villaconin.com.mx/formmail.php" data-w-id="5f9e6a10-276f-3c20-3f8d-784ec82a2636" class="form"><input type="text" class="contact-input w-input" maxlength="256" name="realname" data-name="realname" placeholder="Nombre" id="realname-2" required=""><input type="email" class="contact-input w-input" maxlength="256" name="email" data-name="email" placeholder="Correo Electrónico" id="email-2" required=""><input type="tel" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263c-c82a2618 w-input" maxlength="256" name="phone" data-name="phone" placeholder="No. Teléfono" id="phone-2" required=""><select id="Servicio-De-Interes" name="Servicio-De-Interes" data-name="Servicio De Interes" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263d-c82a2618 w-select">
+        <form
+          id="email-form"
+          name="Contacto"
+          action="/exito"
+          method="POST"
+          data-netlify="true"
+          data-netlify-recaptcha="true"
+          class="form"
+        >
+          <input type="text" class="contact-input w-input" maxlength="256" name="Nombre" placeholder="Nombre" id="name" required="">
+          <input type="email" class="contact-input w-input" maxlength="256" name="Email" placeholder="Correo Electrónico" id="email" required="">
+          <input type="tel" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263c-c82a2618 w-input" maxlength="256" name="Telefono" placeholder="No. Teléfono" id="phone" required="">
+          <select id="servicio-de-interes" name="Servicio de interes" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263d-c82a2618 w-select">
             <option value="Servicio de interés...">Servicio de interés...</option>
             <option value="Boda">Boda</option>
             <option value="XV Años">XV Años</option>
             <option value="Graduación">Graduación</option>
             <option value="Evento Empresarial">Evento Empresarial</option>
             <option value="Otro">Otro</option>
-          </select><textarea placeholder="Déjanos un mensaje" maxlength="5000" id="message-2" name="message" data-name="message" class="contact-input message w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263f-c82a2618 w-input"></textarea>
-          <div class="w-embed"><input type="hidden" name="recipients" value="ventas@villaconin.com.mx">
-            <input type="hidden" name="good_url" value="https://villaconin.com.mx/exito.html">
-            <input type="hidden" name="bad_url" value="https://villaconin.com.mx/falla.html">
+          </select>
+          <textarea placeholder="Déjanos un mensaje" maxlength="5000" id="message" name="Mensaje" class="contact-input message w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263f-c82a2618 w-input"></textarea>
+          <div class="w-embed">
+            <input type="hidden" name="recipients" value="ventas@villaconin.com.mx">
             <input type="hidden" name="subject" value="Mensaje De Forma De Contacto">
-            <input type="hidden" name="derive_fields" value="imgverify=g-recaptcha-response">
-            <div class="g-recaptcha" data-sitekey="6Ld5vQobAAAAACS01O3J4vgP6Ti-0ld4Meo2kMwM"></div>
-          </div><input type="submit" value="Enviar" data-wait="Please wait..." id="w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a2640-c82a2618" class="button w-button">
+          </div>
+          <div data-netlify-recaptcha="true"></div>
+          <button type="submit" data-wait="Please wait..." id="w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a2640-c82a2618" class="button w-button">Enviar</button>
         </form>
         <div class="w-form-done">
           <div>Thank you! Your submission has been received!</div>
