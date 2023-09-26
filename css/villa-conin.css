@@ -938,29 +938,29 @@ body {
 }
 
 .home-slide-1 {
-  background-image: url('../images/home-hero-slide-01.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-01.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 .home-slide-2 {
-  background-image: url('../images/home-hero-slide-02.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-02.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 .home-slide-3 {
-  background-image: url('../images/home-hero-slide-03.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-03.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
   background-position: 0px 0px, 50% 0%;
 }
 .home-slide-4 {
-  background-image: url('../images/home-hero-slide-04.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-04.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 .home-slide-5 {
-  background-image: url('../images/home-hero-slide-05.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-05.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 .home-slide-6 {
-  background-image: url('../images/home-hero-slide-06.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-06.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 .home-slide-7 {
-  background-image: url('../images/home-hero-slide-07.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-07.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 .home-slide-8 {
-  background-image: url('../images/home-hero-slide-08.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));;
+  background-image: url('../images/home-hero-slide-08.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 
 .slider-content-box {
