@@ -1676,6 +1676,9 @@ body {
   background-image: url('../images/marques-slide-06.jpg');
 }
 
+.col-img-slide.salon._00-fundador {
+  background-image: url('../images/fundador-slide-00.jpg');
+}
 .col-img-slide.salon._07 {
   background-image: url('../images/fundador-slide-01.jpg');
 }
