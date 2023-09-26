@@ -1646,7 +1646,7 @@ body {
 
 .col-img-slide.salon._00 {
   background-image: url('../images/marques-slide-00.jpg');
-  background-position: 50% 70%;
+  background-position: 50% 50%;
   background-size: cover;
 }
 
@@ -1699,6 +1699,9 @@ body {
   background-image: url('../images/fundador-slide-05.jpg');
 }
 
+.col-img-slide.salon._00-real {
+  background-image: url('../images/real-slide-00.jpg');
+}
 .col-img-slide.salon._13 {
   background-image: url('../images/real-slide-01.jpg');
 }
@@ -1724,6 +1727,9 @@ body {
   background-image: url('../images/real-slide-06.jpg');
 }
 
+.col-img-slide.salon._00-solar {
+  background-image: url('../images/solar-slide-00.jpg');
+}
 .col-img-slide.salon._19 {
   background-image: url('../images/solar-slide-01.jpg');
 }
@@ -1749,6 +1755,9 @@ body {
   background-position: 50% 50%;
 }
 
+.col-img-slide.salon._00-alcazar {
+  background-image: url('../images/alcazar-slide-00.jpg');
+}
 .col-img-slide.salon._25 {
   background-image: url('../images/alcazar-slide-01.jpg');
 }
@@ -1769,6 +1778,10 @@ body {
   background-image: url('../images/alcazar-slide-03.jpg');
 }
 
+.col-img-slide.salon._00-recepcion {
+  background-image: url('../images/recepcion-slide-00.jpg');
+  background-position: 50% 70%;
+}
 .col-img-slide.salon._31 {
   background-image: url('../images/recepcion-slide-01.jpg');
 }
