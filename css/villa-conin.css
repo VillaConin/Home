@@ -1644,6 +1644,12 @@ body {
   background-image: url('../images/banquete-slide-01.jpg');
 }
 
+.col-img-slide.salon._00 {
+  background-image: url('../images/marques-slide-00.jpg');
+  background-position: 50% 70%;
+  background-size: cover;
+}
+
 .col-img-slide.salon._01 {
   background-image: url('../images/marques-slide-01.jpg');
   background-position: 50% 50%;
