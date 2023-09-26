@@ -3495,50 +3495,42 @@ body {
   grid-template-rows: auto;
 }
 
-.slide-31 {
+.business-slide {
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.business-slide-01 {
   background-image: url('../images/empresarial-slide-01.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
-
-.slide-32 {
+.business-slide-02 {
   background-image: url('../images/empresarial-slide-02.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
-
-.slide-33 {
+.business-slide-03 {
   background-image: url('../images/empresarial-slide-03.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
-
-.slide-34 {
+.business-slide-04 {
   background-image: url('../images/empresarial-slide-04.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
-
-.slide-35 {
+.business-slide-05 {
   background-image: url('../images/empresarial-slide-05.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
-
-.slide-36 {
+.business-slide-06 {
   background-image: url('../images/empresarial-slide-06.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
+}
+.business-slide-07 {
+  background-image: url('../images/empresarial-slide-07.jpg');
+}
+.business-slide-08 {
+  background-image: url('../images/empresarial-slide-08.jpg');
+}
+.business-slide-09 {
+  background-image: url('../images/empresarial-slide-09.jpg');
+}
+.business-slide-10 {
+  background-image: url('../images/empresarial-slide-10.jpg');
 }
 
-.slide-37 {
-  background-image: url('../images/empresarial-slide-07.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
