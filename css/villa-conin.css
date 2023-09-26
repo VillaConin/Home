@@ -3531,9 +3531,32 @@ body {
   background-image: url('../images/empresarial-slide-10.jpg');
 }
 
+.party-slide {
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.party-slide-01 {
+  background-image: url('../images/fiesta-slide-01.jpg');
+}
+.party-slide-02 {
+  background-image: url('../images/fiesta-slide-02.jpg');
+}
+.party-slide-03 {
+  background-image: url('../images/fiesta-slide-03.jpg');
+}
+.party-slide-04 {
+  background-image: url('../images/fiesta-slide-04.jpg');
+}
+.party-slide-05 {
+  background-image: url('../images/fiesta-slide-05.jpg');
+}
+.party-slide-06 {
+  background-image: url('../images/fiesta-slide-06.jpg');
+}
+.party-slide-07 {
+  background-image: url('../images/fiesta-slide-07.jpg');
 }
 
 
