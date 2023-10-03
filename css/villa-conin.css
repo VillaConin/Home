@@ -962,6 +962,9 @@ body {
 .home-slide-8 {
   background-image: url('../images/home-hero-slide-08.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
+.home-slide-9 {
+  background-image: url('../images/home-hero-slide-09.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+}
 
 .slider-content-box {
   position: absolute;
@@ -3258,6 +3261,12 @@ body {
 .wedding-slide-20 {
   background-image: url('../images/bodas-slide-20.jpg');
 }
+.wedding-slide-21 {
+  background-image: url('../images/bodas-slide-21.jpg');
+}
+.wedding-slide-22 {
+  background-image: url('../images/bodas-slide-22.jpg');
+}
 
 
 .xv-slide {
@@ -3322,6 +3331,12 @@ body {
 }
 .xv-slide-17 {
   background-image: url('../images/xv-slide-17.jpg');
+}
+.xv-slide-18 {
+  background-image: url('../images/xv-slide-18.jpg');
+}
+.xv-slide-19 {
+  background-image: url('../images/xv-slide-19.jpg');
 }
 
 
