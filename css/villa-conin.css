@@ -3551,6 +3551,10 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.business-slide-00 {
+  background-image: url('../images/empresarial-slide-00.jpg');
+  /* background-position: 50% 30%; */
+}
 .business-slide-01 {
   background-image: url('../images/empresarial-slide-01.jpg');
   background-position: 50% 30%;
