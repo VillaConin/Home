@@ -1647,6 +1647,148 @@ body {
   background-image: url('../images/banquete-slide-01.jpg');
 }
 
+.salones-slide {
+  height: 100%;
+  /* background-image: url('../images/banquete-slid-01.jpg'); */
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-marques-00 {
+  background-image: url('../images/salones-marques-slide-00.jpg');
+}
+.slide-marques-01 {
+  background-image: url('../images/salones-marques-slide-01.jpg');
+}
+.slide-marques-02 {
+  background-image: url('../images/salones-marques-slide-02.jpg');
+}
+.slide-marques-03 {
+  background-image: url('../images/salones-marques-slide-03.jpg');
+}
+.slide-marques-04 {
+  background-image: url('../images/salones-marques-slide-04.jpg');
+}
+.slide-marques-05 {
+  background-image: url('../images/salones-marques-slide-05.jpg');
+}
+.slide-marques-06 {
+  background-image: url('../images/salones-marques-slide-06.jpg');
+}
+.slide-marques-07 {
+  background-image: url('../images/salones-marques-slide-07.jpg');
+}
+
+.slide-fundador-00 {
+  background-image: url('../images/salones-fundador-slide-00.jpg');
+}
+.slide-fundador-01 {
+  background-image: url('../images/salones-fundador-slide-01.jpg');
+}
+.slide-fundador-02 {
+  background-image: url('../images/salones-fundador-slide-02.jpg');
+}
+.slide-fundador-03 {
+  background-image: url('../images/salones-fundador-slide-03.jpg');
+}
+.slide-fundador-04 {
+  background-image: url('../images/salones-fundador-slide-04.jpg');
+}
+.slide-fundador-05 {
+  background-image: url('../images/salones-fundador-slide-05.jpg');
+}
+
+
+.slide-real-00 {
+  background-image: url('../images/salones-real-slide-00.jpg');
+}
+.slide-real-01 {
+  background-image: url('../images/salones-real-slide-01.jpg');
+}
+.slide-real-02 {
+  background-image: url('../images/salones-real-slide-02.jpg');
+}
+.slide-real-03 {
+  background-image: url('../images/salones-real-slide-03.jpg');
+}
+.slide-real-04 {
+  background-image: url('../images/salones-real-slide-04.jpg');
+}
+.slide-real-05 {
+  background-image: url('../images/salones-real-slide-05.jpg');
+}
+.slide-real-06 {
+  background-image: url('../images/salones-real-slide-06.jpg');
+}
+.slide-real-07 {
+  background-image: url('../images/salones-real-slide-07.jpg');
+}
+
+
+.slide-solar-00 {
+  background-image: url('../images/salones-solar-slide-00.jpg');
+}
+.slide-solar-01 {
+  background-image: url('../images/salones-solar-slide-01.jpg');
+}
+.slide-solar-02 {
+  background-image: url('../images/salones-solar-slide-02.jpg');
+}
+.slide-solar-03 {
+  background-image: url('../images/salones-solar-slide-03.jpg');
+}
+.slide-solar-04 {
+  background-image: url('../images/salones-solar-slide-04.jpg');
+}
+.slide-solar-05 {
+  background-image: url('../images/salones-solar-slide-05.jpg');
+}
+
+.slide-alcazar-00 {
+  background-image: url('../images/salones-alcazar-slide-00.jpg');
+}
+.slide-alcazar-01 {
+  background-image: url('../images/salones-alcazar-slide-01.jpg');
+}
+.slide-alcazar-02 {
+  background-image: url('../images/salones-alcazar-slide-02.jpg');
+}
+.slide-alcazar-03 {
+  background-image: url('../images/salones-alcazar-slide-03.jpg');
+}
+.slide-alcazar-04 {
+  background-image: url('../images/salones-alcazar-slide-04.jpg');
+}
+.slide-alcazar-05 {
+  background-image: url('../images/salones-alcazar-slide-05.jpg');
+}
+.slide-alcazar-06 {
+  background-image: url('../images/salones-alcazar-slide-06.jpg');
+}
+
+.slide-recepcion-00 {
+  background-image: url('../images/salones-recepcion-slide-00.jpg');
+}
+.slide-recepcion-01 {
+  background-image: url('../images/salones-recepcion-slide-01.jpg');
+}
+.slide-recepcion-02 {
+  background-image: url('../images/salones-recepcion-slide-02.jpg');
+}
+.slide-recepcion-03 {
+  background-image: url('../images/salones-recepcion-slide-03.jpg');
+}
+.slide-recepcion-04 {
+  background-image: url('../images/salones-recepcion-slide-04.jpg');
+}
+.slide-recepcion-05 {
+  background-image: url('../images/salones-recepcion-slide-05.jpg');
+}
+.slide-recepcion-06 {
+  background-image: url('../images/salones-recepcion-slide-06.jpg');
+}
+
 .col-img-slide.salon._00 {
   background-image: url('../images/marques-slide-00.jpg');
   background-position: 50% 50%;
