@@ -3286,6 +3286,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.xv-slide-00 {
+  background-image: url('../images/xv-slide-00.jpg');
+}
 .xv-slide-01 {
   background-image: url('../images/xv-slide-01.jpg');
 }
@@ -3306,6 +3309,7 @@ body {
 }
 .xv-slide-07 {
   background-image: url('../images/xv-slide-07.jpg');
+  background-position: 50% 85%;
 }
 .xv-slide-08 {
   background-image: url('../images/xv-slide-08.jpg');
@@ -3350,6 +3354,10 @@ body {
 .xv-slide-19 {
   background-image: url('../images/xv-slide-19.jpg');
   background-position: 50% 35%;
+}
+.xv-slide-20 {
+  background-image: url('../images/xv-slide-20.jpg');
+  background-position: 50% 60%;
 }
 
 
