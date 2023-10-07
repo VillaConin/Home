@@ -2849,9 +2849,10 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/servicios-hero.jpg');
+  background-image: url('../images/servicios-hero.jpg'), linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
   background-position: 50% 50%;
   background-size: cover;
+  background-blend-mode: overlay;
 }
 
 .hero-container.galeria {
