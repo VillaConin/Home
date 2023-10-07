@@ -2979,10 +2979,11 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/salones-hero.jpg');
+  background-image: url('../images/salones-hero.jpg'), linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
+  background-blend-mode: overlay;
 }
 
 .hero-container.servicios {
