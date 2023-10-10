@@ -3543,6 +3543,16 @@ body {
 .business-slide-10 {
   background-image: url('../images/empresarial-slide-10.jpg');
 }
+.business-slide-11 {
+  background-image: url('../images/empresarial-slide-11.jpg');
+}
+.business-slide-12 {
+  background-image: url('../images/empresarial-slide-12.jpg');
+  /* background-position: 50% 0%; */
+}
+.business-slide-13 {
+  background-image: url('../images/empresarial-slide-13.jpg');
+}
 
 .party-slide {
   background-position: 50% 50%;
