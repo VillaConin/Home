@@ -3823,39 +3823,42 @@ body {
   border-bottom-width: 5px;
 }
 
-.slide-54 {
+.cocina-slide {
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cocina-slide-01 {
   background-image: url('../images/cocina-slide-05.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
-.slide-55 {
+.cocina-slide-02 {
   background-image: url('../images/cocina-slide-06.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
-.slide-56 {
+.cocina-slide-03 {
   background-image: url('../images/cocina-slide-07.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
-.slide-57 {
+.cocina-slide-04 {
   background-image: url('../images/cocina-slide-08.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
-.slide-58 {
+.cocina-slide-05 {
   background-image: url('../images/cocina-slide-09.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
+}
+
+.cocina-slide-06 {
+  background-image: url('../images/cocina-slide-10.jpg');
+}
+
+.cocina-slide-07 {
+  background-image: url('../images/cocina-slide-11.jpg');
+}
+
+.cocina-slide-08 {
+  background-image: url('../images/cocina-slide-12.jpg');
 }
 
 .g-recaptcha {
